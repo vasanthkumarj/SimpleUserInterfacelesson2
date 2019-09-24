@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleUserInterface - lesson 2</string>
+    <string name="hint_message">Enter a text</string>
+    <string name="button_text">Send</string>
+</resources>
